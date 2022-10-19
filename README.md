@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omatheuscarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="omatheuscarvalho" /> </p>
 
-- 🔭 I’m currently working on **my Portifolio projects**
+- 🔭 I’m currently working on **my Portifolio projects and my graduation at UFJF (MG-Brasil)**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
