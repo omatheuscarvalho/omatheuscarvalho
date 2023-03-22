@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **my Portifolio projects and my graduation at UFJF (MG-Brasil)**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript and React Native**
 
-- 📫 How to reach me **matheus.torres@ice.ufjf.br**
+- 📫 How to reach me **matheus.torres@estudante.ufjf.br**
 
 - ⚡ Fun fact: **Do you know Gods of Death love apples?**
 
