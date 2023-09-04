@@ -8,7 +8,7 @@ I'm a passionate software engineer from Brazil 🇧🇷, currently in the pursui
 
 ## About Me
 
-- 👨‍🎓 I'm a computer science student at UFJF.
+- 👨‍🎓 I'm a information systems student at UFJF.
 - 💡 Fun fact: Did you know Gods of Death love apples? 🍎
 
 ## Connect with Me
@@ -20,9 +20,9 @@ I'm a passionate software engineer from Brazil 🇧🇷, currently in the pursui
 
 Here are some of the projects I'm proud of:
 
-- 📚 Created a portfolio website to showcase my work.
-- 💼 Developed and maintained a collection of web and mobile applications.
-- 🌐 Collaborated on open-source projects to contribute to the community.
+- 📚 My personal portfolio.
+- 💼 Mobile app for fiscal auditing of dairy industries.
+- 🌐 Python automation for flashcard related to language learning.
 
 ## Skills and Tools
 
@@ -37,7 +37,5 @@ I'm experienced with a variety of technologies and tools, including:
 ## Languages
 
 - 🇺🇸 English: Fluent in reading, writing, speaking, and understanding.
-- 🇪🇸 Spanish: Proficient in reading, writing, and understanding; conversational in speaking.
-- 🇯🇵 Japanese: Basic reading and writing; limited speaking and understanding.
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch. Let's collaborate on something amazing! 🚀
